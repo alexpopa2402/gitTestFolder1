@@ -1,13 +1,18 @@
-°°° THIS IS A LEARNING REPOSITORY FOR TRAINING PURPOSES, NOTHING TO SEE HERE °°°
+# THIS IS A LEARNING AND TRAINING REPOSITORY 
+## LEARNED TOPICS
 
+- Gitignore
 
-# Learned topics list 
+- Stage, Commit
 
-## Gitignore
-## Stage, Commit 
-## Branch, rebase, Squash
-## Merging, when to merge
-## Fork
-## Stash
-## Pull requests
-## Merge Conflicts
+- Branch, rebase, Squash
+
+- Merging, when to merge
+
+- Fork
+
+- Stash
+
+- Pull requests
+
+- Merge Conflicts
